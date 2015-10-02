@@ -25,6 +25,8 @@ block grid.
 
 There are also a number of filters devs can use to alter output.
 
+Verified contrib2dev project #9086f6999a63a347ba7a70c521d52222. Support this project on contrib2dev.com.
+
 == Installation ==
 
 1. Upload plugin folder to the `/wp-content/plugins/` directory
